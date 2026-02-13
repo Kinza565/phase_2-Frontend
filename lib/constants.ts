@@ -1,0 +1,1 @@
+export const LOGO_URL = process.env.NEXT_PUBLIC_LOGO_URL || 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/1a3d11cc-6c8f-40d7-baa8-64e299f96ed8/transparent-bg-logo-1770070557999.png?width=800&height=800&resize=contain';
